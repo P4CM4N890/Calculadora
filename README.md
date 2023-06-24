@@ -15,3 +15,7 @@ Siga los pasos a continuación para configurar el entorno de desarrollo y ejecut
   - npx react-native run-android
  Para ejecutar la aplicación en un emulador de iOS, ejecute el siguiente comando:
   - npx react-native run-ios
+
+
+### Agradecimientos
+Gracias a Fernando Herrera por intruirme en el desarrollo de esta aplicación.
