@@ -1,6 +1,6 @@
 # Calculadora
 
- Calculadora con diseño de iOS desarrollada con React-Native
+ Calculadora con diseño iOS, desarrollada con React-Native.
 
 ### Preparación del entorno
 
@@ -21,4 +21,4 @@ Siga los pasos a continuación para configurar el entorno de desarrollo y ejecut
 
 ### Agradecimientos
 
-Gracias a [Fernando Herrera](https://github.com/Klerith) por intruirme en el desarrollo de esta aplicación.
+Gracias a [Fernando Herrera](https://github.com/Klerith) por intruirme en el desarrollo de esta aplicación, y también gracias por el estilo de la misma.
