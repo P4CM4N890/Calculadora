@@ -13,11 +13,10 @@ Siga los pasos a continuación para configurar el entorno de desarrollo y ejecut
 3. Instalar los módulos de React-Native
     - npm install
 4. Ejecución de la aplicación
-   Para ejecutar la aplicación en un emulador de Android, ejecute el siguiente comando:
-
-- npx react-native run-android
-  Para ejecutar la aplicación en un emulador de iOS, ejecute el siguiente comando:
-- npx react-native run-ios
+    - Para ejecutar la aplicación en un emulador de Android, ejecute el siguiente comando:
+        npx react-native run-android
+    - Para ejecutar la aplicación en un emulador de iOS, ejecute el siguiente comando:
+        npx react-native run-ios
 
 ### Agradecimientos
 
